@@ -62,10 +62,6 @@ document.addEventListener('visibilitychange',
             document.title = "Portfolio | Absar Maideen";
             $("#favicon").attr("href", "favicon.png");
         }
-        else {
-            document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "favhand.png");
-        }
     });
 
 
